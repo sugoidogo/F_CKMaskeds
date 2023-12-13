@@ -69,5 +69,6 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 # Build output
-bin
-obj
+/bin
+/obj
+/*.zip

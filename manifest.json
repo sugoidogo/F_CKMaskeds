@@ -1,0 +1,9 @@
+{
+    "name": "F_CKMaskeds",
+    "version_number": "1.0.8-M",
+    "website_url": "https://github.com/sugoidogo/F_CKMaskeds",
+    "description": "This is a mod that removes masked enemies from Lethal Company",
+    "dependencies": [
+        "BepInExPack"
+    ]
+}
