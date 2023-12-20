@@ -10,7 +10,7 @@ namespace F_CKMaskeds
     {
         private const string modGUID = "SugoiDogo.F_CKMaskeds";
         private const string modName = "F_CKMaskeds";
-        private const string modVersion = "1.0.8-M";
+        private const string modVersion = "1.0.2";
 
         private readonly Harmony harmony = new Harmony(modGUID);
 
