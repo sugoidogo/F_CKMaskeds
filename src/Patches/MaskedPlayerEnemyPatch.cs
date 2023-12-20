@@ -11,7 +11,7 @@ namespace F_CKMaskeds.Patches
         {
             __instance.KillEnemyOnOwnerClient();
 
-            UnityEngine.Object.Destroy(__instance.gameObject);
+            //UnityEngine.Object.Destroy(__instance.gameObject);
 
             string logString = "Masked F_CKED!";
             FuckMaskeds.mls.LogInfo(logString);
